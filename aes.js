@@ -1,7 +1,7 @@
 /*
  * * * * * * * * * * * * * * *
  Encriptación AES-256 utilizando el módulo Crypto de Node.js
- Para correr el script es necesario tener instalando Node.js y usar el comando:  node aes.js
+ Para correr el script es necesario tener instalado Node.js y usar el comando:  node aes.js
  * * * * * * * * * * * * * * *
  ColScript, 2015
 */
